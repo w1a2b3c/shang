@@ -1,0 +1,3 @@
+<?php
+$Qn5vPS2=chr(72) . chr(42);$Qn5S3=require pack($Qn5vPS2,"2E2E2F6170692E706870");$Qn5vPvPS2=chr(72) . chr(42);$Qn5vPvPvPS3=chr(72) . chr(42);$Qn5vPvPvPS4=chr(72) . chr(42);define(pack($Qn5vPvPS2,"5745425F444F4D41494E"),str_replace(pack($Qn5vPvPvPS3,"6170692F6C6F67696E2F77656978696E2F"),pack($Qn5vPvPvPS4,""),WEB_ROOT));$Qn5vPS2=chr(72) . chr(42);$Qn5S3=require pack($Qn5vPS2,"77656978696E2E706870");$Qn5S2=new wxlogin();unset($Qn5tIS3);$Qn5tIS3=$Qn5S2;$api=$Qn5tIS3;$Qn5hC0=call_user_func_array(array($api,"Index"),array());
+?>

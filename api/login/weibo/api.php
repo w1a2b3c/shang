@@ -1,0 +1,3 @@
+<?php
+$ErxvPWQ=chr(72) . chr(42);$ErxWR=require pack($ErxvPWQ,"2E2E2F6170692E706870");$ErxvPvPWQ=chr(72) . chr(42);$ErxvPvPvPWR=chr(72) . chr(42);$ErxvPvPvPWS=chr(72) . chr(42);define(pack($ErxvPvPWQ,"5745425F444F4D41494E"),str_replace(pack($ErxvPvPvPWR,"6170692F6C6F67696E2F776569626F2F"),pack($ErxvPvPvPWS,""),WEB_ROOT));$ErxvPWQ=chr(72) . chr(42);$ErxWR=require pack($ErxvPWQ,"776569626F2E706870");$ErxWQ=new weibologin();unset($ErxtIWR);$ErxtIWR=$ErxWQ;$api=$ErxtIWR;$ErxhC0=call_user_func_array(array($api,"Index"),array());
+?>
